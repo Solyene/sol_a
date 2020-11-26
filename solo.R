@@ -1,0 +1,1 @@
+print("Solomon the king")
